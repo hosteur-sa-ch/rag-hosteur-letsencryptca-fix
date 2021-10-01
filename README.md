@@ -11,8 +11,8 @@ Correction du CA Trust pour les nodes Ragnarokkr lors de l'utilisation du nouvea
 >How to apply the patch
 
 
-Dans votre (dashboard)[https://app.rag-control.hosteur.com/]: 
->From your (dashboard)[https://app.rag-control.hosteur.com/]
+Dans votre [dashboard](https://app.rag-control.hosteur.com/): 
+>From your [dashboard](https://app.rag-control.hosteur.com/)
 
 1 - Ouvrir l'import de JPS (open JPS Import menu)
 
