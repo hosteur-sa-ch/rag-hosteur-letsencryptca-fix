@@ -15,7 +15,9 @@ Dans votre (dashboard)[https://app.rag-control.hosteur.com/]:
 
 1 - Ouvrir l'import de JPS (open JPS Import menu)
 
-2 - Copier l'url ci-contre (copy this url ) : https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/main/manifest.jps
+2 - Copier l'url ci-contre (copy this url ) : 
+
+https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/main/manifest.jps
 
 3 - Importer le package (Import the package)
 
