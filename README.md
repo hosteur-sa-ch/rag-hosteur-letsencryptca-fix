@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/ma
 
 3 - Importer le package (Import the package)
 
-![src1](/images/src_1.png)
+![src3](/images/src_3.png)
 
 4 - Choisir l'environement et le noeud a patcher (Choose the env and node to path)
 
@@ -30,4 +30,4 @@ https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/ma
 
 5 - Appliquer le path (Apply the patch)
 
-![src3](/images/src_3.png)
+![src1](/images/src_1.png)
