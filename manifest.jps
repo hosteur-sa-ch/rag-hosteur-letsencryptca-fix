@@ -52,7 +52,7 @@ globals:
 onInstall:
     - fix-ca-trust
 
-success: fix apply
+success: fix applied
 
 actions:
   fix-ca-trust:
