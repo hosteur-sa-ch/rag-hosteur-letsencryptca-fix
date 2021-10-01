@@ -1,4 +1,4 @@
-# rag-hosteur-letsencryptca-fix
+# Fix for Let's Encrypt CA expiration 09-2021 on Ragnarokkr nodes
 
 Let's Encrypt new Root CA on 09-30-2021
 [Article](https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html)

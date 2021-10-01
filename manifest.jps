@@ -30,7 +30,7 @@ targetNodes:
     - nginxphp-dockerized
     - nodejs
     - apache-ruby
-    - apache-python
+    - apache-pythonhttps://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/main/manifest.jps
     - nginxruby
     - litespeedphp
     - litespeedadc
