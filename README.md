@@ -1,7 +1,7 @@
 # Fix for Let's Encrypt CA expiration 09-2021 on Ragnarokkr nodes
 
 Let's Encrypt new Root CA on 09-30-2021
-[Article](https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html)
+[Article](https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/)
 
 Fixing CA Trust for Ragnarokkr nodes when using Let's Encrypt new Root CA
 
