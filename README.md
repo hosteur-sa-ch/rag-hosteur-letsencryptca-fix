@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/ma
 
 ![src3](/images/src_3.png)
 
-4 - Choisir l'environement et le noeud a patcher (Choose the env and node to path)
+4 - Choisir l'environement et le noeud a patcher (Choose the env and node to patch)
 
 ![src2](/images/src_2.png)
 
