@@ -28,6 +28,6 @@ https://raw.githubusercontent.com/hosteur-sa-ch/rag-hosteur-letsencryptca-fix/ma
 
 ![src2](/images/src_2.png)
 
-5 - Appliquer le path (Apply the patch)
+5 - Appliquer le patch (Apply the patch)
 
 ![src1](/images/src_1.png)
